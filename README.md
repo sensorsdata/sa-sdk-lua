@@ -15,8 +15,9 @@ SensorsAnalytics SDK 是国内第一家开源商用版用户行为采集 SDK，�
 
 ## 基本要求
 
-* 1. SDK 依赖 LuaJIT，目前支持的版本为 LuaJIT-2.1.0-beta3 和 LuaJIT-2.0.5。
-* 2. 目前 SDK 只能应用于 Linux 环境，依赖 [SensorsAnalytics C SDK](https://github.com/sensorsdata/sa-sdk-c)（项目中含有基于 C SDK v0.2.0 版本的动态库）
+* 1. SDK 依赖 LuaJIT，目前支持的版本为 LuaJIT-2.1.0-beta3 和 LuaJIT-2.0.5；
+* 2. 目前 SDK 只能应用于 Linux 环境；
+* 3. SDK 依赖 [SensorsAnalytics C SDK](https://github.com/sensorsdata/sa-sdk-c)（项目中的 libSensorsAnalyticsC.so 为 Linux 平台下基于 C SDK v0.2.0 版本的动态库）。
 
 ## 集成文档
 
