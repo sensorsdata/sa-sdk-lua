@@ -21,7 +21,7 @@ SensorsAnalytics SDK 是国内第一家开源商用版用户行为采集 SDK，�
 
 ## 集成文档
 
-请参考神策官网 Lua SDK 集成文档（链接待补充）。
+请参考神策官网 [Lua SDK 集成文档](https://manual.sensorsdata.cn/sa/2.3/tech_sdk_server_lua-35094769.html)。
 
 ## 贡献
 
