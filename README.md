@@ -1,3 +1,8 @@
+![logo](https://opensource.sensorsdata.cn/wp-content/uploads/logo.png)
+<br><br>
+[![License](https://img.shields.io/github/license/sensorsdata/sa-sdk-lua.svg)](https://github.com/sensorsdata/sa-sdk-lua/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/tag/sensorsdata/sa-sdk-lua.svg?label=release)](https://github.com/sensorsdata/sa-sdk-lua/releases)
+[![GitHub release date](https://img.shields.io/github/release-date/sensorsdata/sa-sdk-lua.svg)](https://github.com/sensorsdata/sa-sdk-lua/releases)
 
 ## 神策简介
 
